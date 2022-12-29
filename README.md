@@ -1,4 +1,4 @@
-# Proyecto-final-Realidad-Aumentada-Cancel changes
+# Proyecto-final-Realidad-Aumentada
 Acá se encuentra un link de Realidad Virtual y aumentada para poder ver mi proyecto
 
 Vicularé el link de Drive en este sitio cuando esté arriba,
